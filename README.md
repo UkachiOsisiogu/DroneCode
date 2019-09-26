@@ -1,4 +1,4 @@
 # DroneCode
-the code used in the drone project
+This is the code used in the drone side of the project for the Oil pipeline network monitoring and surveillance.
 
-##### these codes are used in the drone project are to be deployed to the rapsberry pie, the ip address will point to localhost
+##### These codes are used in the drone project are to be deployed to the Rapsberry Pi, the IP address will point to localhost for connection to the drone during flight.
